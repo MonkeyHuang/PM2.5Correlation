@@ -20,7 +20,7 @@ Environment
 
 Result
 ===
-- Version 1：About 8 minute
+- Version 1：About 5 minute
 - Version 2：About 16 second
 
 Conclusion
